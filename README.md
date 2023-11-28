@@ -35,4 +35,4 @@ This raises important questions about access to healthcare by region and suggest
 
 # Accessing the Data
 
-The original dataset can be found on this repository [here](https://github.com/jerrysellers95/Regional-County-Health-Data/blob/main/CountyHealthData_2014-2015.csv)
+The original dataset can be found on this repository [here.](https://github.com/jerrysellers95/Regional-County-Health-Data/blob/main/CountyHealthData_2014-2015.csv)
