@@ -29,7 +29,7 @@ Another chart examining the numbers of preventable hospital stays would suggest 
 
 ![Preventable Hospital Stays](https://github.com/jerrysellers95/Regional-County-Health-Data/assets/152189266/f710adf5-6362-48e5-a53c-d8e3482377c3)
 
-While more intensive analysis would be needed to prove a correlation, we can see preliinarily from this data that people living in the Southern United States are more likely to be both uninsured and experience a preventable hospital stay.
+While more intensive analysis would be needed to prove a correlation, we can see preliminarily from this data that people living in the Southern United States are more likely to be both uninsured and experience a preventable hospital stay.
 
 This raises important questions about access to healthcare by region and suggests that there are significant structural factors that could be contributing to these asymmetries.
 
